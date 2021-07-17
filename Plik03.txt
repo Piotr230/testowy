@@ -8,3 +8,4 @@ easierApp
 Zmiana8b
 Zmiana10a
 Zmiana13
+Zmiana13b
